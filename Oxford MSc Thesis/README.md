@@ -43,12 +43,12 @@ This study explored the relationship between video game playtime and well-being 
 ##  Key Findings
 
 - No significant link between raw playtime and well-being  
-- ✅ Three behavioral profiles were identified:  
+-  Three behavioral profiles were identified:  
   - *Moderate Handheld Enthusiasts*  
   - *Frequent & Versatile Players*  
   - *Consistent Docked Players*  
-- ✅ Need satisfaction (autonomy, competence, relatedness) was **strongly predictive of well-being**, independent of profile or playtime  
-- ⚠️ Suggests current digital wellness policies focusing on screen time are overly simplistic  
+-  Need satisfaction (autonomy, competence, relatedness) was **strongly predictive of well-being**, independent of profile or playtime  
+-  Suggests that current digital wellness policies focusing on screen time are overly simplistic  
 
 ---
 
@@ -64,9 +64,3 @@ All data collection and analysis followed approval from the **University of Oxfo
 
 ## 📬 Contact
 For questions or discussion, feel free to connect via [LinkedIn](https://www.linkedin.com/in/rominakarkalou/) or email: romina.karkalou@outlook.com
-
-
-
-Run `main.R` to execute the pipeline. Each script in `/scripts/` covers a specific analysis module.
-
-**Note:** Raw data is excluded. You may configure your own data path using `02_data_import_template.R`.
